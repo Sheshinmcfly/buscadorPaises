@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+/* Duración animación animate.css */
+:root {
+    --animate-duration: 1.5s;
+}
+
+.small-flag{
+    width: 5vw;
+}
